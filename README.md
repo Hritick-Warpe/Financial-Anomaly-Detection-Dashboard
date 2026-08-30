@@ -2,6 +2,11 @@
 
 An end-to-end audit analytics pipeline that analyzes 217,441 real-world financial transactions to detect anomalous, high-risk entries — simulating a real-world audit/claims investigation workflow from raw data to an executive-ready dashboard.
 
+
+## Dashboard Preview
+
+![Dashboard](./dashboard/dashboard_screenshot.png)
+
 ## Overview
 
 This project takes a large financial transaction dataset and runs it through a full audit analytics pipeline:
@@ -76,4 +81,4 @@ An interactive dashboard with:
 ## Author
 
 **Hritick Warpe**
-BCA Graduate | Data Analyst | [LinkedIn](#) | hritickwarpe@gmail.com
+BCA Graduate | Data Analyst | [LinkedIn](https://www.linkedin.com/in/hritickwarpe) | [Email](mailto:hritickwarpe@gmail.com)
